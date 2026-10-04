@@ -1,6 +1,8 @@
 # BattleChain Confidence Pools
 
-> **Portfolio snapshot:** A Solidity protocol challenge submission centered on upgradeable factories, minimal-proxy pool clones, Safe Harbor registry integration, staking accounting, time-weighted rewards, adversarial resolution paths, and explicit trust assumptions.
+> **portfolio:** sol protocol challenge built around upgradeable factories, minimal-proxy clones, safe harbor registry integration, staking/accounting, time-weighted rewards, and adversarial resolution paths.
+>
+> **tags:** `sol | evm | defi | sc sec | upgradeability | auditing`
 >
 > **Why it matters for my audit path:** this is one of the repos that most closely resembles the kind of protocol code I want to learn to review — not just deploy. The repository keeps design decisions, assumptions, and known/intentional behaviors close to the implementation.
 
